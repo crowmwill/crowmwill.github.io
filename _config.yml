@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: crowm # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: A text-focused Jekyll theme # 누군가에게 도움이 되는 작가로
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
