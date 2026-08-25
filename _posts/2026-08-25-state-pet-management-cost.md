@@ -33,3 +33,8 @@ description: "독일 정부가 막대한 예산을 투입해 반려동물 전산
 독일의 반려동물 전산 관리 및 자격 제도는 단순한 동물 복지 법안이 아니라 철저한 비용-편익 분석을 거친 공공 행정학의 산물이며, 세금과 전산망을 통해 사각지대를 지워나가는 정교하면서도 국민과 국가가 함께 이룩하는 사회 통제 시스템입니다. 
 
 감정을 배제하고 제도를 들여다보았을 때 비로소 보이는 진실은 명확합니다. 국가가 제 역할을 하고 양육자가 자격을 증명할 때, 비반려인의 안전과 반려인의 자유가 동시에 보장되는 가장 이상적인 공존 즉 함께 살아가는 것이 완성됩니다.
+<!-- LikeBtn.com BEGIN -->
+<span class="likebtn-wrapper" data-theme="custom" data-btn_size="16" data-f_size="16" data-icon_size="16" data-icon_l="hrt2" data-icon_l_c="#ff002c" data-icon_l_c_v="#fb05f7" data-icon_d_c="#5507e6" data-icon_d_c_v="#4d0f83" data-counter_l_c="#0619f8" data-brdr_c="#080808" data-counter_fs="b" data-lang="ko" data-i18n_like="좋아요" data-ef_voting="push" data-identifier="Like_Button"></span>
+<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
+<!-- LikeBtn.com END --> 
+
