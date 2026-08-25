@@ -1,29 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    {% include head.html %}
-  </head>
-  <body>
-    {% include header.html %}
-    <main>
-      <article class="post-content">
-        {{ content }}
-      </article>
+---
+layout: default
+---
 
-      <div class="reaction-buttons">
-        <button onclick="likePost()">👍 좋아요</button>
-        <button onclick="dislikePost()">👎 싫어요</button>
-      </div>
-    </main>
-    {% include footer.html %}
+<article class="post-content">
+  {{ content }}
+</article>
 
-    <script>
-      function likePost() {
-        alert("좋아요를 눌렀습니다!");
-      }
-      function dislikePost() {
-        alert("싫어요를 눌렀습니다!");
-      }
-    </script>
-  </body>
-</html>
+<div class="reaction-buttons">
+  <button onclick="likePost()">👍 좋아요</button>
+  <button onclick="dislikePost()">👎 싫어요</button>
+</div>
+
+<script>
+  function likePost() {
+    alert("좋아요를 눌렀습니다!");
+  }
+  function dislikePost() {
+    alert("싫어요를 눌렀습니다!");
+  }
+</script>
