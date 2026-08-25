@@ -1,5 +1,5 @@
 ---
-### title: "막대한 예산과 혹독한 규제: 독일이 반려동물 통제 시스템을 유지하는 공공 행정학적 배경"
+title: "막대한 예산과 혹독한 규제: 독일이 반려동물 통제 시스템을 유지하는 공공 행정학적 배경"
 date: 2026-08-25
 categories: [Canine-Library, Global-Europe]
 tags: [Pet-Policy, Germany-Insight, Public-Administration, Hundesteuer]
