@@ -1,5 +1,5 @@
 ---
-### title: "Welcome to PetLibraryWeb: 전 세계 반려동물 제도와 경제를 기록하다"
+title: "Welcome to PetLibraryWeb: 전 세계 반려동물 제도와 경제를 기록하다"
 date: 2026-08-24
 categories: [Notice, Global-Insight]
 tags: [PetLibraryWeb, Introduction, Global-Pet]
