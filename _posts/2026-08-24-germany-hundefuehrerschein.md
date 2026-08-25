@@ -1,5 +1,5 @@
 ---
-### title: "독일의 반려견 면허증(Hundeführerschein) 제도 분석: 비반려인과 반려인의 상생 시스템"
+title: "독일의 반려견 면허증(Hundeführerschein) 제도 분석: 비반려인과 반려인의 상생 시스템"
 date: 2026-08-24
 categories: [Canine-Library, Global-Europe]
 tags: [Hundeführerschein, Germany-Pet, Pet-Policy, Global-Insight]
