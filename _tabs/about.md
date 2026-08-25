@@ -17,7 +17,7 @@ permalink: /about/
 
 플랫폼 운영, 콘텐츠 제휴, 기타 문의 사항이 있으신 분은 아래의 공식 소통 창구를 이용해 주시기 바랍니다. 냉철하고 유익한 제안을 언제나 환영합니다. 
 
-* **E-mail:** crowmwill@gmail.com *(※ 실제 사용하시는 이메일 주소로 수정해 주세요)*
+* **E-mail:** crowmwill@gmail.com 
 * **Inquiry:** 본 플랫폼은 비반려인과 반려인 모두의 객관적인 의견 개진을 지지합니다.
 
 ### 🔒 개인정보처리방침 (Privacy Policy)
